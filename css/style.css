@@ -26,3 +26,10 @@ body {
     height: 200px;
     width: 100%;
 }
+
+.name{
+    font-size: large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
