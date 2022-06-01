@@ -12,3 +12,12 @@ body {
     /* border: 2px solid red; */
     /* background-color: yellow; */
 }
+
+.countryDiv{
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    margin-bottom: 50px;
+}
